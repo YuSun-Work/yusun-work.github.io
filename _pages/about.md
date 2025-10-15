@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I’m Yu Sun, an Algorithm Engineering Intern at Alibaba DAMO Academy.
+My research lies at the intersection of medical foundation models and large language models (LLMs), with a focus on developing AI-driven solutions for real-world medical and clinical challenges.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am passionate about advancing the field of medical AI through research and collaboration.
+If you are interested in working together, please feel free to contact me via email.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 **ReasonMed** has been **accepted to EMNLP 2025**! See you in Suzhou! 
+- *2025.06*: &nbsp;🎉🎉 **ReasonMed** was ranked as the [**#1 Paper of the Day**](https://huggingface.co/papers/2506.09513) on Hugging Face, and was **featured by Hugging Face CEO [Clément Delangue](https://x.com/ClementDelangue/status/1933603847890776336)** as well as the **Hugging Face community** on social media. Both **Lingshu** and **ReasonMed** were also among the **Top 5 papers of the week**.  
+- *2025.06*: &nbsp;🎉🎉 **Lingshu** was ranked as the [**#2 Paper of the Day**](https://huggingface.co/papers/2506.07044) on Hugging Face.
+
 
 # 📝 Publications 
 
