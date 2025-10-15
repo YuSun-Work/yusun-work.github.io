@@ -113,6 +113,10 @@ If you are interested in working together, please feel free to contact me via em
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+# 🙋‍♂️ Academic Services
+- *2026*, ICLR
+- *2025*, NIPS
+
 # 💻 Internships
 - *2025.07 - present*, Research Assistant in The Chinese University of Hong Kong(Shenzhen), Supervisor: [Prof. Jin Liu](https://sites.google.com/view/liujinlab/home) and [Prof. Benyou Wang](https://scholar.google.com/citations?user=Jk4vJU8AAAAJ&hl=en), Shenzhen, China.
 - *2024.10 - present*, Intern Algorithm Engineer in Alibaba DAMO Academy, Supervisor: [Dr. Yu Rong](https://scholar.google.com/citations?user=itezhEMAAAAJ&hl=en) and [Dr. Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=en), Hangzhou, China.
