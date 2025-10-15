@@ -66,22 +66,22 @@ If you are interested in working together, please feel free to contact me via em
   </div>
 </div>
 
-<div class="paper-box" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <div class="paper-box-image" style="text-align: center; flex: 0 0 250px;">
+
+<div class='paper-box'>
+  <div class="paper-box-image" style="text-align: center">
     <div>
-      <div class="badge" style="display: inline-block; background: #007bff; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.9em;">Elsevier Book Chapter</div>
-      <img src="images/paper/drug_discovery.png" alt="Drug Discovery" style="width: 100%; max-width: 250px; margin-top: 8px; display: block; margin-left: auto; margin-right: auto;">
+      <div class="badge">Elsevier Book Chapter</div>
+      <img src='images/paper/drug_discovery.png' alt="Drug Discovery" width="100%">
     </div>
   </div>
-  <div class="paper-box-text" style="flex: 1; min-width: 250px;">
-    <p>
-      <a href="https://shop.elsevier.com/books/revolutionizing-drug-development/chen/978-0-443-34059-8"><strong>Graph Neural Networks for Drug Discovery: Protocols and Applications</strong></a><br>
-      <strong>Yu Sun</strong>, Xiyue Zhao, ..., Yonghui Lv, Qifeng Bai<br>
-      <em>Book Chapter in</em> “Revolutionizing Drug Development,” Elsevier, 2025.
-    </p>
+  <div class='paper-box-text' markdown="1">
+
+  [**Graph Neural Networks for Drug Discovery: Protocols and Applications**](https://shop.elsevier.com/books/revolutionizing-drug-development/chen/978-0-443-34059-8)  
+  **Yu Sun**, Xiyue Zhao, ..., Yonghui Lv, Qifeng Bai  
+  
+  *Book Chapter in* “Revolutionizing Drug Development,” Elsevier, 2025.  
   </div>
 </div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
