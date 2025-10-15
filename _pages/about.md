@@ -79,7 +79,7 @@ If you are interested in working together, please feel free to contact me via em
   [**Graph Neural Networks for Drug Discovery: Protocols and Applications**](https://shop.elsevier.com/books/revolutionizing-drug-development/chen/978-0-443-34059-8)  
   **Yu Sun**, Xiyue Zhao, ..., Yonghui Lv, Qifeng Bai  
   
-  *Book Chapter in* “Revolutionizing Drug Development,” Elsevier, 2025.  
+  *Book Chapter in* “Revolutionizing Drug Development,” Elsevier, 2026.  
   </div>
 </div>
 
@@ -121,4 +121,4 @@ If you are interested in working together, please feel free to contact me via em
 # 💻 Internships
 - *2025.07 - present*, Research Assistant in The Chinese University of Hong Kong(Shenzhen), Supervisor: [Prof. Jin Liu](https://sites.google.com/view/liujinlab/home) and [Prof. Benyou Wang](https://scholar.google.com/citations?user=Jk4vJU8AAAAJ&hl=en), Shenzhen, China.
 - *2024.10 - present*, Intern Algorithm Engineer in Alibaba DAMO Academy, Supervisor: [Dr. Yu Rong](https://scholar.google.com/citations?user=itezhEMAAAAJ&hl=en) and [Dr. Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=en), Hangzhou, China.
-- *2022.06 - 2024.08*, Research Intern in 兰州大学基础医学院, Supervisor: [Prof. Qifeng Bai](https://scholar.google.com/citations?user=7w7Vwh0AAAAJ&hl=en), Lanzhou, China.
+- *2022.06 - 2024.08*, Research Intern in School of Basic Medicine, Lanzhou University, Supervisor: [Prof. Qifeng Bai](https://scholar.google.com/citations?user=7w7Vwh0AAAAJ&hl=en), Lanzhou, China.
