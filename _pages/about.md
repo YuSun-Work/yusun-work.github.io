@@ -35,7 +35,7 @@ If you are interested in working together, please feel free to contact me via em
   <div class='paper-box-image'>
     <div>
       <div class="badge">EMNLP 2025</div>
-      <img src='images/reasonmed.png' alt="ReasonMed" width="100%">
+      <img src='images/paper/reasonmed.png' alt="ReasonMed" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -53,7 +53,7 @@ If you are interested in working together, please feel free to contact me via em
   <div class='paper-box-image'>
     <div>
       <div class="badge">TPAMI (Under Review)</div>
-      <img src='images/lingshu.png' alt="Lingshu" width="100%">
+      <img src='images/paper/lingshu.png' alt="Lingshu" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -70,7 +70,7 @@ If you are interested in working together, please feel free to contact me via em
   <div class='paper-box-image'>
     <div>
       <div class="badge">Elsevier Book Chapter</div>
-      <img src='images/drug_discovery.png' alt="Drug Discovery" width="100%">
+      <img src='images/paper/drug_discovery.png' alt="Drug Discovery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -86,7 +86,7 @@ If you are interested in working together, please feel free to contact me via em
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TFS 2025</div>
-      <img src='images/ndvi.png' alt="NDVI" width="100%">
+      <img src='images/paper/ndvi.png' alt="NDVI" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
