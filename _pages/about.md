@@ -68,10 +68,10 @@ If you are interested in working together, please feel free to contact me via em
 
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="text-align: center;">
-    <div>
+  <div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
       <div class="badge">Elsevier Book Chapter</div>
-      <img src='images/paper/drug_discovery.png' alt="Drug Discovery" width="100%" style="max-width: 400px; margin: 0 auto; display: block;">
+      <img src='images/paper/drug_discovery.png' alt="Drug Discovery" style="max-width: 400px; width: 100%; height: auto;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -82,6 +82,7 @@ If you are interested in working together, please feel free to contact me via em
   *Book Chapter in* “Revolutionizing Drug Development,” Elsevier, 2025.  
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
