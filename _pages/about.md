@@ -68,7 +68,7 @@ If you are interested in working together, please feel free to contact me via em
 
 
 <div class="paper-box" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <div class="paper-box-image" style="text-align: center;">
+  <div class="paper-box-image" style="text-align: center; flex: 0 0 250px;">
     <div>
       <div class="badge">Elsevier Book Chapter</div>
       <img src='images/paper/drug_discovery.png' alt="Drug Discovery" width="100%">
