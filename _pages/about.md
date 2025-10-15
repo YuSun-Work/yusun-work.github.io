@@ -46,8 +46,9 @@ If you are interested in working together, please feel free to contact me via em
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2025* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2024* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025*: Outstanding Graduation Thesis Award
+- *2024*: Innovation, Entrepreneurship, and Academic Competition Scholarship
+
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Lanzhou University. (B.S. in Computer Science)
@@ -57,4 +58,4 @@ If you are interested in working together, please feel free to contact me via em
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2020.02*, [Lorem](https://github.com/), China.
