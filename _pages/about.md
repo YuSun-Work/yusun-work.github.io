@@ -25,7 +25,7 @@ If you are interested in working together, please feel free to contact me via em
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 **ReasonMed** has been **accepted to EMNLP 2025**! See you in Suzhou! 
-- *2025.06*: &nbsp;🎉🎉 **ReasonMed** was ranked as the [**#1 Paper of the Day**](https://huggingface.co/papers/2506.09513) on Hugging Face, and was **featured by Hugging Face CEO** as well as the **Hugging Face community** on [social media](https://x.com/ClementDelangue/status/1933603847890776336). Both **Lingshu** and **ReasonMed** were also among the **Top 5 papers of the week**.  
+- *2025.06*: &nbsp;🎉🎉 **ReasonMed** was ranked as the [**#1 Paper of the Day**](https://huggingface.co/papers/2506.09513) on Hugging Face, and was **featured by Hugging Face CEO** as well as the **Hugging Face community** on [**social media**](https://x.com/ClementDelangue/status/1933603847890776336). Both **Lingshu** and **ReasonMed** were also among the **Top 5 papers of the week**.  
 - *2025.06*: &nbsp;🎉🎉 **Lingshu** was ranked as the [**#2 Paper of the Day**](https://huggingface.co/papers/2506.07044) on Hugging Face.
 
 
