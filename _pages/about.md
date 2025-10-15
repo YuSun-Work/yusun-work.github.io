@@ -61,7 +61,7 @@ If you are interested in working together, please feel free to contact me via em
   [**Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning**](https://arxiv.org/abs/2506.07044)  
   Weiwen Xu, Hou Pong Chan, Long Li, Mahani Aljunied, Ruifeng Yuan, Jianyu Wang, Chenghao Xiao, Guizhen Chen, Chaoqun Liu, Zhaodonghui Li, **Yu Sun**, Junao Shen, Chaojun Wang, Jie Tan, Deli Zhao, Tingyang Xu, Hao Zhang, Yu Rong  
   
-  [**Hugging Face Link**](https://huggingface.co/papers/2506.07044)  
+  [**Hugging Face Link – #2 Paper of the Day**](https://huggingface.co/papers/2506.07044)  
   Under Review at *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.  
   </div>
 </div>
