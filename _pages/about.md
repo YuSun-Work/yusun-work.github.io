@@ -29,25 +29,80 @@ If you are interested in working together, please feel free to contact me via em
 - *2025.06*: &nbsp;🎉🎉 **Lingshu** was ranked as the [**#2 Paper of the Day**](https://huggingface.co/papers/2506.07044) on Hugging Face.
 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EMNLP 2025</div>
+      <img src='images/reasonmed.png' alt="ReasonMed" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning**](https://arxiv.org/abs/2506.09513)  
+  **Yu Sun**, Xingyu Qian, Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang, Tingyang Xu, Qifeng Bai, Yu Rong  
+  
+  EMNLP 2025 (*SAC Highlight Award Nomination*)  
+  [**Hugging Face Link – #1 Paper of the Day**](https://huggingface.co/papers/2506.09513)  
+  Featured by [**Hugging Face CEO Clément Delangue**](https://x.com/ClementDelangue/status/1933603847890776336) and officially reposted by the HF community.  
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TPAMI (Under Review)</div>
+      <img src='images/lingshu.png' alt="Lingshu" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [**Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning**](https://arxiv.org/abs/2506.07044)  
+  Weiwen Xu, Hou Pong Chan, Long Li, Mahani Aljunied, Ruifeng Yuan, Jianyu Wang, Chenghao Xiao, Guizhen Chen, Chaoqun Liu, Zhaodonghui Li, **Yu Sun**, Junao Shen, Chaojun Wang, Jie Tan, Deli Zhao, Tingyang Xu, Hao Zhang, Yu Rong  
+  
+  [**Hugging Face Link**](https://huggingface.co/papers/2506.07044)  
+  Under Review at *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.  
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Elsevier Book Chapter</div>
+      <img src='images/drug_discovery.png' alt="Drug Discovery" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [**Graph Neural Networks for Drug Discovery: Protocols and Applications**](https://shop.elsevier.com/books/revolutionizing-drug-development/chen/978-0-443-34059-8)  
+  **Yu Sun**, Xiyue Zhao, ..., Yonghui Lv, Qifeng Bai  
+  
+  *Book Chapter in* “Revolutionizing Drug Development,” Elsevier, 2025.  
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TFS 2025</div>
+      <img src='images/ndvi.png' alt="NDVI" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [**Deep Spatio-Temporal Fuzzy Model for NDVI Forecasting**](https://ieeexplore.ieee.org/document/10549851)  
+  Zhao Su, Jun Shen, **Yu Sun**, Rizhen Hu, Qingguo Zhou, Binbin Yong *(Student Second Author)*  
+  
+  *IEEE Transactions on Fuzzy Systems (Q1 TOP Journal)*, 2025.  
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2025*: Outstanding Graduation Thesis Award
-- *2024*: Innovation, Entrepreneurship, and Academic Competition Scholarship
+- *2023*: Innovation, Entrepreneurship, and Academic Competition Scholarship
+- *2023*, ASC Student Supercomputer Challenge (First prize) -- The world's three major supercomputing competitions
 
 
 # 📖 Educations
