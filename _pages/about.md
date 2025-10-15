@@ -43,7 +43,7 @@ If you are interested in working together, please feel free to contact me via em
   [**ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning**](https://arxiv.org/abs/2506.09513)  
   **Yu Sun**, Xingyu Qian, Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang, Tingyang Xu, Qifeng Bai, Yu Rong  
   
-  EMNLP 2025 (*SAC Highlight Award Nomination*)  
+  EMNLP 2025 <!--(*SAC Highlight Award Nomination*)  !-->
   [**Hugging Face Link – #1 Paper of the Day**](https://huggingface.co/papers/2506.09513)  
   Featured by [**Hugging Face CEO**](https://x.com/ClementDelangue/status/1933603847890776336) and officially reposted by the HF community.  
   </div>
