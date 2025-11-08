@@ -105,6 +105,7 @@ If you are interested in working together, please feel free to contact me via em
 
 
 # 🎖 Honors and Awards
+- *2025*: EMNLP 2025 SAC Highlights Award (Top 1%)
 - *2025*: Outstanding Graduation Thesis Award
 - *2023*: Innovation, Entrepreneurship, and Academic Competition Scholarship
 - *2023*, ASC Student Supercomputer Challenge (First prize) -- The world's three major supercomputing competitions
