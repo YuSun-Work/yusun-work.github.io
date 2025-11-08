@@ -24,6 +24,8 @@ I am passionate about advancing the field of medical AI through research and col
 If you are interested in working together, please feel free to contact me via email.
 
 # 🔥 News
+
+- *2025.11*: &nbsp;🎉🎉 **ReasonMed** received the SAC Highlights Award (35/3230)
 - *2025.09*: &nbsp;🎉🎉 **ReasonMed** has been **accepted to EMNLP 2025**! See you in Suzhou! 
 - *2025.06*: &nbsp;🎉🎉 **ReasonMed** was ranked as the [**#1 Paper of the Day**](https://huggingface.co/papers/2506.09513) on Hugging Face, and was **featured by Hugging Face CEO** as well as the **Hugging Face community** on [**social media**](https://x.com/ClementDelangue/status/1933603847890776336). Both **Lingshu** and **ReasonMed** were also among the **Top 5 papers of the week**.  
 - *2025.06*: &nbsp;🎉🎉 **Lingshu** was ranked as the [**#2 Paper of the Day**](https://huggingface.co/papers/2506.07044) on Hugging Face.
@@ -43,11 +45,12 @@ If you are interested in working together, please feel free to contact me via em
   [**ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning**](https://arxiv.org/abs/2506.09513)  
   **Yu Sun**, Xingyu Qian, Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang, Tingyang Xu, Qifeng Bai, Yu Rong  
   
-  EMNLP 2025 <!--(*SAC Highlight Award Nomination*)  !-->
+  EMNLP 2025 <span style="color: red;">(SAC Highlight Award - 35/3230)</span>  
   [**Hugging Face Link – #1 Paper of the Day**](https://huggingface.co/papers/2506.09513)  
   Featured by [**Hugging Face CEO**](https://x.com/ClementDelangue/status/1933603847890776336) and officially reposted by the HF community.  
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
