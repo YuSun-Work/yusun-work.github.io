@@ -125,6 +125,6 @@ If you are interested in working together, please feel free to contact me via em
 # 💻 Internships
 - *2026.01 - 2026.04*, Research Assistant in The Hong Kong University of Science and Technology (Guangzhou), Supervisor: [Prof. Jia Li](https://sites.google.com/view/lijia), Guangzhou, China.
 - *2025.07 - present*, Research Assistant in The Chinese University of Hong Kong(Shenzhen), Supervisor: [Prof. Jin Liu](https://sites.google.com/view/liujinlab/home) and [Prof. Benyou Wang](https://scholar.google.com/citations?user=Jk4vJU8AAAAJ&hl=en), Shenzhen, China.
-- *2025.09 - 2025.12, Intern in The National University of Singapore (NUS), Supervisor: [Prof. Yatao Bian](https://yataobian.com/).
+- *2025.09 - 2025.12*, Intern in The National University of Singapore (NUS), Supervisor: [Prof. Yatao Bian](https://yataobian.com/).
 - *2024.10 - present*, Intern Algorithm Engineer in Alibaba DAMO Academy, Supervisor: [Dr. Yu Rong](https://scholar.google.com/citations?user=itezhEMAAAAJ&hl=en) and [Dr. Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=en), Hangzhou, China.
 - *2022.06 - 2024.08*, Research Intern in School of Basic Medicine, Lanzhou University, Supervisor: [Prof. Qifeng Bai](https://scholar.google.com/citations?user=7w7Vwh0AAAAJ&hl=en), Lanzhou, China.
