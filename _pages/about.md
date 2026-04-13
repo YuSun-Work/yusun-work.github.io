@@ -105,6 +105,8 @@ If you are interested in working together, please feel free to contact me via em
 
 
 # 🎖 Honors and Awards
+- *2026*: DAMO Academy 2025 Outstanding Papers
+- *2026*: DAMO Academy 2025 Outstanding Academic Collaboration Interns
 - *2025*: EMNLP 2025 SAC Highlights Award (Top 1%)
 - *2025*: Outstanding Graduation Thesis Award
 - *2023*: Innovation, Entrepreneurship, and Academic Competition Scholarship
