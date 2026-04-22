@@ -131,3 +131,11 @@ If you are interested in working together, please feel free to contact me via em
 - *2025.09 - 2025.12*, Intern in The National University of Singapore (NUS), Supervisor: [Prof. Yatao Bian](https://yataobian.com/).
 - *2024.10 - present*, Intern Algorithm Engineer in Alibaba DAMO Academy, Supervisor: [Dr. Yu Rong](https://scholar.google.com/citations?user=itezhEMAAAAJ&hl=en) and [Dr. Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=en), Hangzhou, China.
 - *2022.06 - 2024.08*, Research Intern in School of Basic Medicine, Lanzhou University, Supervisor: [Prof. Qifeng Bai](https://scholar.google.com/citations?user=7w7Vwh0AAAAJ&hl=en), Lanzhou, China.
+
+
+# 🚀 Entrepreneurship
+- *2026 - present*, **Project Leader** of the incubated **YuKe Project** at CIDE, The Chinese University of Hong Kong, Shenzhen.  
+  CIDE is a **national-level science and technology business incubator**. YuKe aims to build an **embodied AI-based dry-wet laboratory automation platform** for biological research, combining agent-based planning with robotic execution, sensing, and feedback to enable more flexible, reconfigurable, and trustworthy wet-lab automation.
+
+- *2025 - 2026*, **Chief Operating Officer (COO)**, Guangzhou Aoyi Zhixia Technology Co., Ltd.  
+  Participated in the development and commercialization of **on-premise LLM and agent solutions** for enterprise applications, with experience in privacy-sensitive deployment, workflow integration, and manufacturing collaboration.
