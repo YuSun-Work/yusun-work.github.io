@@ -139,5 +139,5 @@ If you are interested in working together, please feel free to contact me via em
 
   
 
-- *2025 - present*, **Chief Operating Officer (COO)**,  [Guangzhou Aoyi Zhixia Technology Co., Ltd.]([https://yataobian.com/](https://www.fytri.cn/incu/ittb))
+- *2025 - present*, **Chief Operating Officer (COO)**,  [Guangzhou Aoyi Zhixia Technology Co., Ltd.](https://www.fytri.cn/incu/ittb)
   Participated in the development and commercialization of **on-premise LLM and agent solutions** for enterprise applications, with experience in privacy-sensitive deployment, workflow integration, and manufacturing collaboration.
