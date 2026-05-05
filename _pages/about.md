@@ -115,7 +115,8 @@ If you are interested in working together, please feel free to contact me via em
 
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Lanzhou University. (B.S. in Computer Science)
+- *2021.09 - 2025.06*, Lanzhou University (B.S. in Computer Science)
+- *2026.09 - 2030.06*, The Chinese University of Hong Kong, Shenzhen (Phd in Computer Science)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
