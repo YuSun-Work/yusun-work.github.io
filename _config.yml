@@ -134,6 +134,7 @@ defaults:
         type: blog
       values:
         layout: blog-post
+        author_profile: false
 
 # Sass/SCSS
 sass:
