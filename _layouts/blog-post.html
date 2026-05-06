@@ -3,20 +3,35 @@ layout: default
 ---
 
 <style>
-  /* Hide sidebar on blog post pages */
+  /* ============================================
+     Hide sidebar / author profile / nav lists on blog post pages
+     ============================================ */
   .sidebar,
   .author__avatar,
   .author__content,
   .author__urls-wrapper,
   .author__urls,
   .author-profile,
-  #main > .sidebar { display: none !important; }
-  
-  /* Make article content full-width */
-  .page,
-  #main .archive,
+  #main > .sidebar,
+  .page__inner-wrap > .sidebar,
+  .toc,
+  nav.toc,
+  .nav__list,
+  .navigation,
+  .page__related,
+  .greedy-nav .visible-links li:nth-child(n+2) {
+    display: none !important;
+  }
+
+  /* Force the main content area to full width */
+  #main,
+  #main > .archive,
+  #main > .page,
   #main > article,
-  #main > .page {
+  .page,
+  .archive,
+  .page__inner-wrap,
+  .page__content {
     float: none !important;
     width: 100% !important;
     max-width: 100% !important;
@@ -25,6 +40,10 @@ layout: default
     margin-left: auto !important;
     margin-right: auto !important;
   }
+
+  /* ============================================
+     Article styling
+     ============================================ */
   .post-wrap {
     max-width: 740px;
     margin: 1.5rem auto 4rem;
@@ -90,7 +109,7 @@ layout: default
     background: #c8d0dc;
   }
 
-  /* Body — restyle anything Jekyll renders from markdown */
+  /* Body */
   .post-body {
     font-size: 1rem;
     line-height: 1.8;
@@ -224,7 +243,7 @@ layout: default
     margin: 2.2rem 0;
   }
 
-  /* Footer (next/prev placeholder) */
+  /* Footer */
   .post-footer {
     margin-top: 3rem;
     padding-top: 1.6rem;
@@ -250,15 +269,6 @@ layout: default
     .post-body { font-size: 0.97rem; }
   }
 </style>
-
-{% capture tag_class %}
-  {% if include.tag == "Medical AI" %}tag-medical
-  {% elsif include.tag == "Foundation Models" %}tag-foundation
-  {% elsif include.tag == "LLM Reasoning" %}tag-reasoning
-  {% elsif include.tag == "Embodied Agents" %}tag-agents
-  {% elsif include.tag == "AI for Science" %}tag-science
-  {% else %}tag-default{% endif %}
-{% endcapture %}
 
 <div class="post-wrap">
 
