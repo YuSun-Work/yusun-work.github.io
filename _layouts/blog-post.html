@@ -4,7 +4,7 @@ layout: default
 
 <style>
   /* ============================================
-     Hide sidebar / author profile / nav lists on blog post pages
+     Hide sidebar / nav / breadcrumb on blog post pages
      ============================================ */
   .sidebar,
   .author__avatar,
@@ -19,7 +19,19 @@ layout: default
   .nav__list,
   .navigation,
   .page__related,
-  .greedy-nav .visible-links li:nth-child(n+2) {
+
+  /* breadcrumbs / top nav links to homepage sections */
+  .breadcrumbs,
+  nav.breadcrumbs,
+  .page__breadcrumbs,
+  .masthead__menu,
+  .greedy-nav,
+  .greedy-nav .visible-links,
+  .greedy-nav__toggle,
+  #site-nav,
+  .site-nav,
+  header nav,
+  .masthead nav {
     display: none !important;
   }
 
