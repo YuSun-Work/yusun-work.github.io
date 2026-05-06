@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Yu Sun, an Algorithm Engineering Intern at Alibaba DAMO Academy.
-My research lies at the intersection of medical foundation models and large language models (LLMs), with a focus on developing AI-driven solutions for real-world medical and clinical challenges.
+Hi, I’m Yu Sun. I am currently an Algorithm Engineering Intern at Alibaba DAMO Academy and will pursue a Ph.D. in Computer Science at The Chinese University of Hong Kong, Shenzhen. My research lies at the intersection of medical foundation models, large language models, and intelligent agents, with a focus on building reliable AI systems for real-world medical, clinical, and biomedical research challenges.
 
-I am passionate about advancing the field of medical AI through research and collaboration.
-If you are interested in working together, please feel free to contact me via email.
+I am also interested in translating frontier AI research into deployable products and scientific discovery systems. I am currently exploring a closed-loop dry-wet laboratory automation platform that connects AI-driven hypothesis generation, experiment planning, embodied wet-lab execution, data analysis, and iterative feedback. My goal is to build AI-native discovery systems that can work alongside researchers to accelerate biomedical and scientific innovation. If you are interested in collaboration or discussion, please feel free to contact me via email.
 
 # 🔥 News
 - *2026.4*: &nbsp;🎉🎉 I received the following awards: 2025 Alibaba and Ant Group Annual Outstanding Papers, DAMO Academy 2025 Outstanding Papers, and DAMO Academy 2025 Outstanding Academic Collaboration Interns.
