@@ -1,6 +1,7 @@
 ---
 title: "Why Medical AI Needs Reasoning, Not Only Recognition"
 date: 2026-05-05
+layout: blog-post
 excerpt: "A short reflection on why future medical foundation models should move from pattern recognition toward structured clinical reasoning."
 tags:
   - Medical AI
@@ -8,9 +9,7 @@ tags:
   - Foundation Models
 ---
 
-# Why Medical AI Needs Reasoning, Not Only Recognition
-
-Write your blog content here.
+Medical AI is moving from single-task recognition toward generalist reasoning systems — and we should rethink what 'understanding' really means in clinical settings.
 
 ## Motivation
 
