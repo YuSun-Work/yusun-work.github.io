@@ -127,14 +127,13 @@ defaults:
       layout: default
       author_profile: true
 
-
-defaults:
-    - scope:
-        path: ""
-        type: blog
-      values:
-        layout: blog-post
-        author_profile: false
+  # _blog posts
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: blog-post
+      author_profile: false
 
 # Sass/SCSS
 sass:
