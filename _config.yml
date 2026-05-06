@@ -128,6 +128,13 @@ defaults:
       author_profile: true
 
 
+defaults:
+    - scope:
+        path: ""
+        type: blog
+      values:
+        layout: blog-post
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
