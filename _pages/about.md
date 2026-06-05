@@ -136,10 +136,8 @@ I am also interested in translating frontier AI research into deployable product
 
 
 # 🚀 Entrepreneurship
-- *2026 - present*, **Project Leader** & **CEO** of the incubated **YuKe Project** at CIDE, The Chinese University of Hong Kong, Shenzhen.  
-  CIDE is a **national-level science and technology business incubator**. YuKe aims to build an **embodied AI-based dry-wet laboratory automation platform** for biological research, combining agent-based planning with robotic execution, sensing, and feedback to enable more flexible, reconfigurable, and trustworthy wet-lab automation. The project has since been **admitted to the first cohort of the Entrepreneurship Spark Track** (创业星火赛道) at the Shenzhen Loop Area Institute and **selected for both the National- and Provincial-level College Student Innovation Training Program**, further validating its research originality and commercialization potential.
-
-  
+- *2026 - present*, **Project Leader & CEO** of **YuKe** (愈科) — a closed-loop, self-evolving scientific platform for the life sciences that integrates dry-lab reasoning with wet-lab experimentation.  
+  YuKe builds an **embodied AI-based dry-wet laboratory automation platform** for biological research, combining agent-based planning with robotic execution, sensing, and feedback to enable more flexible, reconfigurable, and trustworthy wet-lab automation. The project is **incubated by CIDE** — a national-level science and technology business incubator at The Chinese University of Hong Kong, Shenzhen — has been **admitted to the first cohort of the Entrepreneurship Spark Track** (创业星火赛道) at the **Shenzhen Loop Area Institute** (河套学院), and was **selected for both the National- and Provincial-level College Student Innovation Training Program**, together validating its research originality and commercialization potential.
 
 - *2025 - present*, **Chief Operating Officer (COO)**,  [Guangzhou Aoyi Zhixia Technology Co., Ltd.](https://www.fytri.cn/incu/ittb)
   Participated in the development and commercialization of **on-premise LLM and agent solutions** for enterprise applications, with experience in privacy-sensitive deployment, workflow integration, and manufacturing collaboration.
