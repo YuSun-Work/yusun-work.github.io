@@ -22,9 +22,9 @@ Hi, I’m Yu Sun. I am currently an Algorithm Engineering Intern at Alibaba DAMO
 I am also interested in translating frontier AI research into deployable products and scientific discovery systems. I am currently exploring a closed-loop dry-wet laboratory automation platform that connects AI-driven hypothesis generation, experiment planning, embodied wet-lab execution, data analysis, and iterative feedback. My goal is to build AI-native discovery systems that can work alongside researchers to accelerate biomedical and scientific innovation. If you are interested in collaboration or discussion, please feel free to contact me via email.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Admitted to the **first cohort of the Entrepreneurship Spark Track** (创业星火赛道) under the "Shen Recommendation Program" (深荐计划) at the **Shenzhen Loop Area Institute** (河套学院).
-- *2026.05*: &nbsp;🎉🎉 Our **YuKe dry-wet platform** project was selected for both the **National-level and Provincial-level College Student Innovation Training Program** (2026 国家级 & 省级大学生创新训练计划) at CUHK-Shenzhen.
-- *2026.4*: &nbsp;🎉🎉 I received the following awards: 2025 Alibaba and Ant Group Annual Outstanding Papers, DAMO Academy 2025 Outstanding Papers, and DAMO Academy 2025 Outstanding Academic Collaboration Interns.
+- *2026.06*: &nbsp;🎉🎉 Admitted to the **first cohort of the Entrepreneurship Spark Track** (创业星火赛道) under the "Shen Recommendation Program" (深荐计划) at the **Shenzhen Loop Area Institute** (河套学院).
+- *2026.06*: &nbsp;🎉🎉 Our **YuKe dry-wet platform** project was selected for both the **National-level and Provincial-level College Student Innovation Training Program** (2026 国家级 & 省级大学生创新训练计划) at CUHK-Shenzhen.
+- *2026.04*: &nbsp;🎉🎉 I received the following awards: 2025 Alibaba and Ant Group Annual Outstanding Papers, DAMO Academy 2025 Outstanding Papers, and DAMO Academy 2025 Outstanding Academic Collaboration Interns.
 - *2025.11*: &nbsp;🎉🎉 **ReasonMed** received the SAC Highlights Award (35/3230)
 - *2025.09*: &nbsp;🎉🎉 **ReasonMed** has been **accepted to EMNLP 2025**! See you in Suzhou! 
 - *2025.06*: &nbsp;🎉🎉 **ReasonMed** was ranked as the [**#1 Paper of the Day**](https://huggingface.co/papers/2506.09513) on Hugging Face, and was **featured by Hugging Face CEO** as well as the **Hugging Face community** on [**social media**](https://x.com/ClementDelangue/status/1933603847890776336). Both **Lingshu** and **ReasonMed** were also among the **Top 5 papers of the week**.  
