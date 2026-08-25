@@ -32,6 +32,21 @@ Beyond research, I work to translate frontier AI into deployable products and sc
 
 
 # 📝 Publications
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EMNLP 2026</div>
+      <img src='images/paper/ACTOR.jpg' alt="ACTOR.jpg" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**ACTOR: Agentic CT Reasoning with Radiologist-Aligned Actions**](https://openreview.net/pdf?id=e3xnoVCe7q)  
+  Xingyu Qian, **Yu Sun**, Songyou Li, Zongzhao Li, Jiacheng Cen, Wenqian Wu, Tingyang Xu, Yu Rong, Deli Zhao, Wenbing Huang  
+  EMNLP 2026 Main  
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
