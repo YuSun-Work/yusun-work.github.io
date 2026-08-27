@@ -70,7 +70,7 @@ Beyond research, I work to translate frontier AI into deployable products and sc
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TPAMI (Under Review)</div>
+      <div class="badge">TPAMI</div>
       <img src='images/paper/lingshu.png' alt="Lingshu" width="100%">
     </div>
   </div>
