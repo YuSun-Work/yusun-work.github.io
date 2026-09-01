@@ -80,6 +80,7 @@ Beyond research, I work to translate frontier AI into deployable products and sc
   Weiwen Xu, Hou Pong Chan, Long Li, Mahani Aljunied, Ruifeng Yuan, Jianyu Wang, Chenghao Xiao, Guizhen Chen, Chaoqun Liu, Zhaodonghui Li, **Yu Sun**, Junao Shen, Chaojun Wang, Jie Tan, Deli Zhao, Tingyang Xu, Hao Zhang, Yu Rong  
 
   TPAMI
+  
   [**Hugging Face Link – #2 Paper of the Day**](https://huggingface.co/papers/2506.07044)  
   </div>
 </div>
