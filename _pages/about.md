@@ -151,7 +151,7 @@ Beyond research, I work to translate frontier AI into deployable products and sc
 - *2022.06 - 2024.08*, Research Intern in School of Basic Medicine, Lanzhou University, Supervisor: [Prof. Qifeng Bai](https://scholar.google.com/citations?user=7w7Vwh0AAAAJ&hl=en), Lanzhou, China.
 
 
-# 🚀 Entrepreneurship
+<!-- # 🚀 Entrepreneurship
 - *2026 - present*, **Project Leader & CEO** of **YuKe** (愈科) — a closed-loop, self-evolving scientific platform for the life sciences that integrates dry-lab reasoning with wet-lab experimentation.
   YuKe builds an **embodied AI-based dry-wet laboratory automation platform** for biological research, combining agent-based planning with robotic execution, sensing, and feedback to enable more flexible, reconfigurable, and trustworthy wet-lab automation.
   - **Incubation**: Incubated by **CIDE**, the innovation & entrepreneurship incubator at CUHK-Shenzhen, which was [selected into the **first batch of the MIIT Science and Technology Enterprise Incubators (2026)**](https://www.lg.gov.cn/zwfw/zdfw/kjcy/kjqyfhq/content/post_12766533.html) — entering the **national-level** science-and-technology incubation system — and rated a **Longgang District "Excellence-class" Science and Technology Enterprise Incubator (2025)**, the first to earn this top rating under the district's new administrative measures.
@@ -159,4 +159,4 @@ Beyond research, I work to translate frontier AI into deployable products and sc
 - *2026 - present*, **Co-founder**,  [现实回环（深圳）科技有限公司](http://realityloopai.com/)
   RealityLoop is backed by [MiraclePlus](https://emergeia.com/project/2025F-007) as its lead investor. We are building the brain for the modern laboratory—an intelligent system that can perceive, understand, and orchestrate people, instruments, software, and robots. By transforming tacit laboratory know-how into traceable and reusable execution intelligence, RealityLoop enables scientific research to evolve from reliance on individual expertise toward continuous learning and increasingly autonomous execution.
 - *2025 - present*, **Chief Operating Officer (COO)**,  [Guangzhou Aoyi Zhixia Technology Co., Ltd.](https://www.fytri.cn/incu/ittb)
-  Participated in the development and commercialization of **on-premise LLM and agent solutions** for enterprise applications, with experience in privacy-sensitive deployment, workflow integration, and manufacturing collaboration.
+  Participated in the development and commercialization of **on-premise LLM and agent solutions** for enterprise applications, with experience in privacy-sensitive deployment, workflow integration, and manufacturing collaboration. -->
