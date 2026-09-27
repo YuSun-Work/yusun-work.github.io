@@ -43,7 +43,7 @@ Beyond research, I work to translate frontier AI into deployable products and sc
   
   [**ACTOR: Agentic CT Reasoning with Radiologist-Aligned Actions**](https://openreview.net/pdf?id=e3xnoVCe7q)  
   Xingyu Qian, **Yu Sun**, Songyou Li, Zongzhao Li, Jiacheng Cen, Wenqian Wu, Tingyang Xu, Yu Rong, Deli Zhao, Wenbing Huang  
-  EMNLP 2026 Main  
+  EMNLP 2026 Main (Oral)  
   </div>
 </div>
 
